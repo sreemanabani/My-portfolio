@@ -1,0 +1,209 @@
+.black{
+    font-size: 50px;
+    font-family: 'Yeseva One', cursive;;
+    color: rgb(75, 75, 75);
+}
+.orange{
+    font-size: 49px;
+    font-family: 'Yeseva One', cursive;;
+    color: rgb(255, 196, 86);
+}
+.my-p{
+    width: 50%;
+    font-family: 'Poppins', sans-serif;;
+    margin-left: 110px;
+}
+.border{
+    border-left: 5px solid rgb(255, 94, 94);
+    padding-left: 10px;
+    margin-top: 100px;
+    margin-left: 110px;
+}
+.button{
+     font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    background-color: #ff4848;  
+    color: white;  
+    padding: 13px 38px;
+    border-radius: 5px;
+    margin-left: 110px;
+ 
+}
+.top-ban{
+    margin-top: 80px;
+    margin-left: 62px; 
+}
+.half-width{
+    width: 24%;
+    margin-left: 775px;
+    margin-top: -280px;
+}
+.scroll{
+    font-family: 'Poppins', sans-serif;;
+    margin-left: 110px;
+}
+.goal{
+    display: flex;
+    font-family: 'Poppins', sans-serif;
+    margin-left: 115px;
+}
+.mission{
+    margin: 20px;
+    background-color: rgb(232, 244, 255);
+    border-radius: 20px;
+    height: 300px;
+    width: 280px;
+    padding: 15px;
+     
+}
+.mission p{
+    font-size: 14px;
+}
+.vission{
+    margin: 20px;
+    background-color: hsl(331, 100%, 96%);
+    border-radius: 20px;
+    height: 300px;
+    width: 280px;
+    padding: 15px;
+     
+}
+.vission p{
+    font-size: 14px;
+}
+.goals{
+    margin: 20px;
+    background-color: rgb(255, 250, 203);
+    border-radius: 20px;
+    height: 300px;
+    width: 280px;
+    padding: 15px;
+     
+}
+.goals p{
+    font-size: 14px;
+}
+.img-one{
+    width: 40%;
+}
+.img-two{
+    width: 40%;
+}
+.img-three{
+    width: 40%;
+}
+.hehe{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-size: 30px; 
+}
+.hehe span{
+    font-family: 'Poppins', sans-serif;
+    color: rgb(255, 196, 86);
+}
+.flexible-container{
+    display: flex;
+}
+.img-width img{
+    width: 50%;
+    padding-left: 281px;
+}
+.img-width{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+.img-width p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 17px;
+}
+.develop-limit{
+    margin-left: -104px;
+    margin-top: 96px;
+    margin-bottom: -40px;
+    align-items: center;
+}
+.button-two{
+        font-family: 'Poppins', sans-serif;
+       text-decoration: none;
+       background-color: #ff4848;  
+       color: white;  
+       padding: 15px 20px;
+       border-radius: 5px;
+       margin-left: 600px;
+        
+}
+.section-4{
+    display: flex;
+    margin-left: 160px;
+}
+.global-community{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    margin-top: 66px;
+}
+.global-community p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    margin-top: 30px;
+}
+.global-pic img{
+    width: 60%;
+    margin-top: 80px;
+    margin-left: 101px;
+    
+}
+.button-three{
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    text-decoration: none;
+    background-color: hsl(0, 100%, 66%);
+    color: white;
+    padding: 12px 20px;
+    border-radius: 5px;
+}
+.corona-img img{
+    width: 80%;
+    margin-top: 10px;
+}
+.corona-shape img{
+    width: 10%;
+    margin-bottom: -113px;
+    margin-left: -21px;
+}
+.corona{
+    padding-left: 300px;
+}
+.safe-corona{
+    font-size: 30px;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 96px;
+}
+.safe-corona p{
+    font-size: 17px;
+    font-family: 'Poppins', sans-serif;
+}
+.safe-corona span{
+    color: orange;
+    font-family: 'Poppins', sans-serif;
+}
+.build-corona{
+    display: flex;
+    margin-left: -51px;
+}
+.last-para h1{
+    color: #ff8ea1;
+    font-family: 'The Nautigal', cursive;
+    font-size: 70px;
+    text-align: center;
+    background-color: #000007;
+    height: 180px;
+    margin-top: 67px;
+}
+.mission-2022{
+    font-size: 10px;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+body{
+    margin: 0;
+}
